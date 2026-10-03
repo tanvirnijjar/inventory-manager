@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# PHP/XAMPP temporary files
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Backup files
+*.bak
+*.tmp
